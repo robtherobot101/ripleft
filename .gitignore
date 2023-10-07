@@ -189,3 +189,4 @@ src/riparrange
 # logs
 *.log
 *~
+/config.h
